@@ -1,0 +1,6 @@
+{
+  "name": "MailFlow",
+  "description": "Production-quality responsive email web application inspired by the modern Gmail Android experience with Material 3 design, smart AI features, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
